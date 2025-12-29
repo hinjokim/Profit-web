@@ -1,4 +1,3 @@
-import React from 'react';
 import { ChevronLeft, Search } from 'lucide-react';
 
 interface ChatPreview {

@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Search, SlidersHorizontal, MapPin, Check } from 'lucide-react';
+import { useState } from 'react';
+import { Search, SlidersHorizontal, MapPin } from 'lucide-react';
 
 export default function SearchPage() {
   const [selectedCategory, setSelectedCategory] = useState('전체');

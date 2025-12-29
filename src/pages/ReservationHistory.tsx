@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Calendar, Clock, MapPin, CheckCircle, QrCode, Clock as ClockIcon } from 'lucide-react';
 import QRCodeModal from '../components/QRCodeModal';
 

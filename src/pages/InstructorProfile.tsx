@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { ChevronLeft, Star, Award, MapPin, Clock, MessageSquare, CheckCircle } from 'lucide-react';
 
 // Sample Data for a single instructor

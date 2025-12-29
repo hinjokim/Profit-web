@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { ChevronLeft, Calendar as CalendarIcon, Clock, CheckCircle, XCircle, Plus, DollarSign, Users } from 'lucide-react';
+import { useState } from 'react';
+import { ChevronLeft, Calendar as CalendarIcon, Clock, CheckCircle, XCircle, Plus, Users } from 'lucide-react';
 
 interface LessonRequest {
   id: number;

@@ -1,4 +1,3 @@
-import React from 'react';
 import { Search, MapPin, Calendar, Star, Award, ChevronRight } from 'lucide-react';
 
 interface HomeProps {

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Search, Calendar, User as UserIcon, MessageSquare, Menu } from 'lucide-react';
 import Home from './pages/Home';
 import SearchPage from './pages/SearchPage';

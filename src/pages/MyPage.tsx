@@ -1,4 +1,3 @@
-import React from 'react';
 import { CreditCard, Bell, HelpCircle, Phone, ChevronRight, LogOut, Settings, Repeat } from 'lucide-react';
 import { type User } from '../data/mock';
 
